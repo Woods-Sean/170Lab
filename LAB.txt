@@ -1,0 +1,47 @@
+﻿Team:
+Sean Woods --- 408.444.0648, srwoods@ucsc.edu
+Manuel Rosales - 323 854 2151, mrosale1@ucsc.edu
+Brandon Samudio- 510 862 5084 bsamudio@ucsc.edu 
+Jose Zepeda        (510) 734-9562 joazeped@ucsc.edu
+
+
+Times to Meet:
+Monday and Wednesdays.
+Friday and Weekends impromptu. 
+
+
+Strengths:
+Sean - Minor Programming / Unity Beginner Experience / Music & Voice / Organization
+Brandon- decent Programming/ unreal beginner/ photoshop / pixel art
+Manuel - beginner programmer, would like to experiment with music, decent storyteller
+Jose - Intermediate coder, pretty chill vector artist, no noice, good photoshop and illustrator and level design
+
+
+Engine:
+Phaser, Unity,... Build our own…. :/, GameMaker2, Twine, Analog/Crafts?
+
+
+Ideas:
+1. 80’s top down shooter -> Castle Driven Damsel in Distress… → Run around shoot em up Story Driven, Music - Like Drive, Kung Fury, 80’s retro out of the box
+2. Mini Games Collection - Setting? End Game? Game Loops?
+3. Mini game ideas? 
+
+
+GameMaker
+Implement GitHub
+
+
+Setting:
+Retro style arcade from the 80’s & 90’s. Walk in room potentially at the mall.
+
+
+Storytelling:
+Random exposition.
+
+
+Look and Feel:
+Start off with pixel art and stick figures. Awkward CGI cutscenes?
+
+
+Emotion:
+Parody, nostalgia, and frustration.
